@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS generated files
+*.swp
+*.swo
+
+# Build directories
+dist/
+build/
+
+# OneDrive trash
+~$*
